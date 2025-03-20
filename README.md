@@ -1,7 +1,8 @@
 <h1 align="center"> Mateo Asmar </h1>
 
-<img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" align="center" />
-
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Cool Coding GIF">
+</p>
 
 ## 💻 About Me
 
@@ -121,8 +122,7 @@ Currently polishing my skills and gearing up for the next projects: CPP09, Incep
   ✨ "Code. Debug. Refactor. Repeat."
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Cool Coding GIF">
-</p>
+<img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" align="center" />
+
 
 ---
