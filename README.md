@@ -121,3 +121,8 @@ Currently polishing my skills and gearing up for the next projects: CPP09, Incep
   ✨ "Code. Debug. Refactor. Repeat."
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Cool Coding GIF">
+</p>
+
+---
