@@ -36,8 +36,9 @@ Currently polishing my skills and gearing up for the next projects: CPP09, Incep
 
 ## 📫 Connect with Me
 
-- [**LinkedIn**](https://www.linkedin.com/in/mateo-asmar-645223228/)
-- [**Gmail**](asmarmateo@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)   [**LinkedIn**](https://www.linkedin.com/in/mateo-asmar-645223228/)
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)      [**Gmail**](asmarmateo@gmail.com)
 
 ---
 
