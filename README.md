@@ -1,5 +1,8 @@
 # Mateo Asmar
 
+<img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" align="center" />
+
+
 ## 💻 About Me
 
 I'm a passionate programmer and student at 42 Beirut, diving deep into the world of C, C++, and system programming. I love tackling complex projects and refining my code to meet strict standards like the 42 Norm.
