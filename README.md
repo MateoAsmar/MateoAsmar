@@ -15,7 +15,7 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 - **Languages**: C, C++, Bash
 - **Technologies**: MiniLibX, Shell scripting, Multi-threading, Mutexes
 - **Concepts**: Data structures, Algorithms, Memory management, System calls
----
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,git,vscode" />
