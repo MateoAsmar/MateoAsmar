@@ -1,4 +1,4 @@
-# Mateo Asmar
+<h1 align="center"> Mateo Asmar </h1>
 
 <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" align="center" />
 
@@ -30,7 +30,7 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 - **So_long**: 2D game with collectibles and pathfinding.
 - **Minishell**: A functional shell supporting pipes, redirections, and built-ins.
 - **Philosophers**: Multi-threaded dining philosophers simulation.
-- **Cub3D**: Wolfenstein-like raycasting game (complete, memory leak-free!).
+- **cub3D**: Wolfenstein-like raycasting game (complete, memory leak-free!).
 - **C++ Modules (00->09)**: Finished all modules except CPP09.
 
 ---
