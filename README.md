@@ -7,6 +7,8 @@
 
 I'm a passionate programmer and student at 42 Beirut, diving deep into the world of C, C++, and system programming. I love tackling complex projects and refining my code to meet strict standards like the 42 Norm.
 
+---
+
 ## 🔧 Skills
 
 - **Languages**: C, C++, Bash
@@ -31,6 +33,12 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 - **Cub3D**: Wolfenstein-like raycasting game (complete, memory leak-free!).
 - **C++ Modules (00->09)**: Finished all modules except CPP09.
 
+---
+
+<p align="center">
+ <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/stats?cursusId=21&coalitionId=479" alt="masmar's 42 stats" /></a>
+  </a>
+</p>
 
 ## My 4️⃣2️⃣ Beirut Project Grades
 
@@ -92,12 +100,15 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 **CPP Module 07**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4209905" alt="masmar's 42 CPP Module 07 Score" /></a>
 
 
+---
 
 ## 🚀 What I'm Working On
 
 Always on the lookout for new challenges. 
 
 Currently polishing my skills and gearing up for the next projects: CPP09, Inception, and ft_irc.
+
+---
 
 ## 📫 Connect with Me
 
@@ -110,8 +121,3 @@ Currently polishing my skills and gearing up for the next projects: CPP09, Incep
   ✨ "Code. Debug. Refactor. Repeat."
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nimon77/badge42">
-    <img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/stats?cursusId=21&coalitionId=446" alt="masmar's 42 stats" />
-  </a>
-</p>
