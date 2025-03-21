@@ -13,7 +13,7 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 ## 🔧 Skills
 
 - **Languages**: C, C++, Bash
-- **Technologies**: MiniLibX, Shell scripting, Multi-threading, Mutexes
+- **Technologies**: MiniLibX, Multi-threading, Mutexes
 - **Concepts**: Data structures, Algorithms, Memory management, System calls
 
 <p align="center">
