@@ -100,6 +100,7 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 
 **CPP Module 07**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4209905" alt="masmar's 42 CPP Module 07 Score" /></a>
 
+**CPP Module 08**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4213900" alt="masmar's 42 CPP Module 08 Score" /></a>
 
 ---
 
