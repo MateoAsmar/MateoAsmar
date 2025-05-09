@@ -102,13 +102,15 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 
 **CPP Module 08**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4213900" alt="masmar's 42 CPP Module 08 Score" /></a>
 
+**Inception**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4213900" alt="masmar's 42 Inception Score" /></a>
+
 ---
 
 ## 🚀 What I'm Working On
 
 Always on the lookout for new challenges. 
 
-Currently polishing my skills and gearing up for the next projects: CPP09, Inception, and ft_irc.
+Currently polishing my skills and gearing up for the next projects: CPP09 and ft_irc.
 
 ---
 
