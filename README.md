@@ -115,7 +115,7 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 
 Always on the lookout for new challenges. 
 
-Currently polishing my skills and gearing up for the next projects: CPP09 and ft_transcendance.
+Currently working on and gearing up for the last two projects at 42: CPP09 and ft_transcendance.
 
 ---
 
