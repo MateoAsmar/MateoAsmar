@@ -31,8 +31,9 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 - **So_long**: 2D game with collectibles and pathfinding.
 - **Minishell**: A functional shell supporting pipes, redirections, and built-ins.
 - **Philosophers**: Multi-threaded dining philosophers simulation.
-- **cub3D**: Wolfenstein-like raycasting game (complete, memory leak-free!).
+- **cub3D**: Wolfenstein-like raycasting game.
 - **C++ Modules (00->09)**: Finished all modules except CPP09.
+- **ft_irc**: A C++ implementation of an RFC-compliant IRC server using non-blocking sockets and poll for real-time multi-client chat.
 
 ---
 
