@@ -109,6 +109,8 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 
 **ft_irc** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4292142" alt="masmar's 42 ft_irc Score" /></a>
 
+**Exam Rank 05** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4355385" alt="masmar's 42 Exam Rank 05 Score" /></a>
+
 ---
 
 ## 🚀 What I'm Working On
