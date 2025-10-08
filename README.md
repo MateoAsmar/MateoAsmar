@@ -13,8 +13,8 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 ## 🔧 Skills
 
 - **Languages**: C, C++, Bash
-- **Technologies**: MiniLibX, Multi-threading, Mutexes
-- **Concepts**: Data structures, Algorithms, Memory management, System calls
+- **Technologies**: MiniLibX
+- **Concepts**: Data structures, Algorithms
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 - **Minishell**: A functional shell supporting pipes, redirections, and built-ins.
 - **Philosophers**: Multi-threaded dining philosophers simulation.
 - **cub3D**: Wolfenstein-like raycasting game.
-- **C++ Modules (00->09)**: Finished all modules except CPP09.
+- **C++ Modules (00->09)**: Finished all CPP modules.
 - **ft_irc**: A C++ implementation of an RFC-compliant IRC server using non-blocking sockets and poll for real-time multi-client chat.
 
 ---
@@ -111,13 +111,16 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 
 **Exam Rank 05** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4355385" alt="masmar's 42 Exam Rank 05 Score" /></a>
 
+### Milestone 6:
+
+**Exam Rank 06** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4412618" alt="masmar's 42 Exam Rank 06 Score" /></a>
 ---
 
 ## 🚀 What I'm Working On
 
 Always on the lookout for new challenges. 
 
-Currently working on and gearing up for the last two projects at 42: CPP09 and ft_transcendance.
+Currently working on the last project at 42: ft_transcendance.
 
 ---
 
