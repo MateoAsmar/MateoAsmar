@@ -114,6 +114,7 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 ### Milestone 6:
 
 **Exam Rank 06** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4412618" alt="masmar's 42 Exam Rank 06 Score" /></a>
+
 ---
 
 ## 🚀 What I'm Working On
