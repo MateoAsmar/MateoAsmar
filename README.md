@@ -34,6 +34,7 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 - **cub3D**: Wolfenstein-like raycasting game.
 - **C++ Modules (00->09)**: Finished all CPP modules.
 - **ft_irc**: A C++ implementation of an RFC-compliant IRC server using non-blocking sockets and poll for real-time multi-client chat.
+- **ft_transcendence**: A full-stack web application that recreates the classic Pong game with modern features like online multiplayer, user authentication, matchmaking, profiles, and real-time game logic. It combines frontend, backend, database, and security concepts, showcasing a complete, production-ready web application built from scratch
 
 ---
 
@@ -115,13 +116,15 @@ I'm a passionate programmer and student at 42 Beirut, diving deep into the world
 
 **Exam Rank 06** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4412618" alt="masmar's 42 Exam Rank 06 Score" /></a>
 
+**ft_transcendence** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4613812" alt="masmar's 42 ft_transcendence Score" /></a>
+
 ---
 
 ## 🚀 What I'm Working On
 
 Always on the lookout for new challenges. 
 
-Currently working on the last project at 42: ft_transcendance.
+Currently doing a data science internship at CMA CGM - The Hub.
 
 ---
 
