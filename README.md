@@ -6,13 +6,17 @@
   42 Beirut Graduate 🎓 &nbsp;|&nbsp; Building AI systems that automate real-world workflows
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Coding GIF" width="500">
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 I'm an **AI Engineer and 42 Beirut graduate**, interested in building practical AI systems that solve real business problems.
 
-My work focuses on **LLM applications, agentic AI, RAG, multi-agent workflows and workflow automation**.
+My work focuses on **LLM applications, agentic AI, RAG, multi-agent workflows, and workflow automation**.
 
 I enjoy taking AI projects beyond simple prototypes: designing agent workflows, connecting models to tools and business systems, improving reliability and performance, and turning them into applications people can actually use.
 
@@ -22,7 +26,7 @@ My background at **42 Beirut** gave me strong foundations in software engineerin
 
 ## 🤖 What I Work With
 
-**AI & LLMs**
+### AI & LLMs
 
 - Large Language Models (LLMs)
 - Agentic AI & Multi-Agent Systems
@@ -33,7 +37,7 @@ My background at **42 Beirut** gave me strong foundations in software engineerin
 - LLM APIs
 - AI-assisted development with Claude Code & Codex
 
-**Backend & Software Engineering**
+### Backend & Software Engineering
 
 - Python
 - FastAPI
@@ -42,7 +46,7 @@ My background at **42 Beirut** gave me strong foundations in software engineerin
 - Docker
 - Linux / Bash
 
-**Web**
+### Web
 
 - JavaScript / TypeScript
 - Backend & API Integration
@@ -50,7 +54,7 @@ My background at **42 Beirut** gave me strong foundations in software engineerin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,docker,git,linux,bash,js,ai,postgres,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,pytorch,docker,git,linux,bash,js,ts,postgres,vscode" />
   </a>
 </p>
 
@@ -59,6 +63,7 @@ My background at **42 Beirut** gave me strong foundations in software engineerin
 ## 🧠 AI Engineering
 
 ### ✈️ TIARA — Multi-Agent Travel Automation
+**Enterprise Project — Source code private 🔒**
 
 An enterprise AI system designed to automate corporate travel workflows.
 
@@ -79,18 +84,19 @@ One of the challenges involved improving invoice-processing performance by redes
 ---
 
 ### 👥 SIRA — AI-Powered Recruitment
+**Enterprise Project — Source code private 🔒**
 
 An AI-powered HR platform supporting **candidate screening and interviewing**.
 
 Worked on applying LLMs and AI workflows to help automate parts of the recruitment process while structuring information for downstream use.
 
-**Focus:** LLM workflows • Automation • Backend • APIs
+**Focus:** LLM Workflows • Automation • Backend • APIs
 
 ---
 
 ## 🚀 Selected Engineering Projects
 
-### ft_transcendence
+### 🏓 ft_transcendence
 
 Full-stack web application built as the final 42 project, featuring:
 
@@ -102,11 +108,11 @@ Full-stack web application built as the final 42 project, featuring:
 - Database integration
 - Security and real-time game logic
 
-### ft_irc
+### 💬 ft_irc
 
 IRC server written in C++ using **non-blocking sockets and `poll()`**, supporting multiple concurrent clients and IRC protocol functionality.
 
-### Minishell
+### 🐚 Minishell
 
 Unix shell implementation supporting:
 
@@ -116,11 +122,11 @@ Unix shell implementation supporting:
 - Built-ins
 - Process management
 
-### Philosophers
+### 🧵 Philosophers
 
 Multithreaded implementation of the Dining Philosophers problem, exploring **threads, mutexes, synchronization, and concurrency**.
 
-### cub3D
+### 🎮 cub3D
 
 Raycasting engine inspired by Wolfenstein 3D, built in C.
 
@@ -160,12 +166,30 @@ I'm particularly interested in:
 
 ## 📫 Connect With Me
 
-**LinkedIn:** [Mateo Asmar](https://www.linkedin.com/in/mateo-asmar-645223228/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateo-asmar-645223228/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:asmarmateo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+</p>
 
-**Email:** [asmarmateo@gmail.com](mailto:asmarmateo@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateo-asmar-645223228/">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:asmarmateo@gmail.com">Email</a>
+</p>
 
 ---
 
 <p align="center">
   <b>Build. Evaluate. Iterate. Ship.</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" width="500" />
 </p>
