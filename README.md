@@ -1,145 +1,171 @@
-<h1 align="center"> Mateo Asmar </h1>
+<h1 align="center">Hi, I'm Mateo Asmar 👋</h1>
+
+<h3 align="center">AI Engineer | LLMs • Agentic AI</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Cool Coding GIF">
+  42 Beirut Graduate 🎓 &nbsp;|&nbsp; Building AI systems that automate real-world workflows
 </p>
-
-## 💻 About Me
-
-I'm a passionate programmer and student at 42 Beirut, diving deep into the world of C, C++, and system programming. I love tackling complex projects and refining my code to meet strict standards like the 42 Norm.
 
 ---
 
-## 🔧 Skills
+## 👨‍💻 About Me
 
-- **Languages**: C, C++, Bash
-- **Technologies**: MiniLibX
-- **Concepts**: Data structures, Algorithms
+I'm an **AI Engineer and 42 Beirut graduate**, interested in building practical AI systems that solve real business problems.
+
+My work focuses on **LLM applications, agentic AI, RAG, multi-agent workflows and workflow automation**.
+
+I enjoy taking AI projects beyond simple prototypes: designing agent workflows, connecting models to tools and business systems, improving reliability and performance, and turning them into applications people can actually use.
+
+My background at **42 Beirut** gave me strong foundations in software engineering, algorithms, system programming, networking, concurrency, and full-stack development.
+
+---
+
+## 🤖 What I Work With
+
+**AI & LLMs**
+
+- Large Language Models (LLMs)
+- Agentic AI & Multi-Agent Systems
+- RAG (Retrieval-Augmented Generation)
+- Prompt & Context Engineering
+- Tool Calling & Structured Outputs
+- AI Workflow Automation
+- LLM APIs
+- AI-assisted development with Claude Code & Codex
+
+**Backend & Software Engineering**
+
+- Python
+- FastAPI
+- C / C++
+- Git
+- Docker
+- Linux / Bash
+
+**Web**
+
+- JavaScript / TypeScript
+- Backend & API Integration
+- Full-Stack Development
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,docker,git,linux,bash,js,ai,postgres,vscode" />
   </a>
 </p>
 
 ---
 
-## 🎯 Projects Overview
+## 🧠 AI Engineering
 
-- **Minitalk**: A client-server messaging program using Unix signals.
-- **Push_swap**: Optimized stack sorting with a minimal number of moves.
-- **So_long**: 2D game with collectibles and pathfinding.
-- **Minishell**: A functional shell supporting pipes, redirections, and built-ins.
-- **Philosophers**: Multi-threaded dining philosophers simulation.
-- **cub3D**: Wolfenstein-like raycasting game.
-- **C++ Modules (00->09)**: Finished all CPP modules.
-- **ft_irc**: A C++ implementation of an RFC-compliant IRC server using non-blocking sockets and poll for real-time multi-client chat.
-- **ft_transcendence**: A full-stack web application that recreates the classic Pong game with modern features like online multiplayer, user authentication, matchmaking, profiles, and real-time game logic. It combines frontend, backend, database, and security concepts, showcasing a complete, production-ready web application built from scratch
+### ✈️ TIARA — Multi-Agent Travel Automation
+
+An enterprise AI system designed to automate corporate travel workflows.
+
+The platform uses multiple AI agents to support processes including:
+
+- Travel requests and approvals
+- Booking workflows
+- Invoice processing
+- Expense verification
+- Reimbursement workflows
+
+Worked on **agent orchestration, backend logic, API integrations, prompt engineering, and workflow optimization**.
+
+One of the challenges involved improving invoice-processing performance by redesigning how agents collaborate and process groups of documents.
+
+**Technologies:** Python • FastAPI • LLM APIs • RAG • Multi-Agent Systems
 
 ---
 
+### 👥 SIRA — AI-Powered Recruitment
+
+An AI-powered HR platform supporting **candidate screening and interviewing**.
+
+Worked on applying LLMs and AI workflows to help automate parts of the recruitment process while structuring information for downstream use.
+
+**Focus:** LLM workflows • Automation • Backend • APIs
+
+---
+
+## 🚀 Selected Engineering Projects
+
+### ft_transcendence
+
+Full-stack web application built as the final 42 project, featuring:
+
+- Real-time multiplayer Pong
+- Authentication
+- Matchmaking
+- User profiles
+- Backend APIs
+- Database integration
+- Security and real-time game logic
+
+### ft_irc
+
+IRC server written in C++ using **non-blocking sockets and `poll()`**, supporting multiple concurrent clients and IRC protocol functionality.
+
+### Minishell
+
+Unix shell implementation supporting:
+
+- Pipes
+- Redirections
+- Environment variables
+- Built-ins
+- Process management
+
+### Philosophers
+
+Multithreaded implementation of the Dining Philosophers problem, exploring **threads, mutexes, synchronization, and concurrency**.
+
+### cub3D
+
+Raycasting engine inspired by Wolfenstein 3D, built in C.
+
+---
+
+## 🎓 42 Beirut
+
+**42 Beirut Graduate — November 2025**
+
+Completed the full 42 Common Core, including:
+
+`C` • `C++` • `Unix` • `Algorithms` • `Networking` • `Concurrency` • `Docker` • `System Programming` • `Full-Stack Development`
+
 <p align="center">
- <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/stats?cursusId=21&coalitionId=479" alt="masmar's 42 stats" /></a>
+  <a href="https://github.com/Nimon77/badge42">
+    <img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/stats?cursusId=21&coalitionId=479" alt="Mateo's 42 stats" />
   </a>
 </p>
 
-## My 4️⃣2️⃣ Beirut Project Grades
+---
 
-### Milestone 0:
+## 🔭 Currently
 
-**Libft**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/3700283" alt="masmar's 42 Libft Score" /></a>
+Building and experimenting with **LLM applications, AI agents, RAG, automation, and AI-assisted software engineering**.
 
+I'm particularly interested in:
 
-### Milestone 1:
-
-**ft_printf** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/3717625" alt="masmar's 42 ft_printf Score" /></a>
-
-**get_next_line** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/3726601" alt="masmar's 42 get_next_line Score" /></a>
-
-**Born2beroot**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/3733454" alt="masmar's 42 Born2beroot Score" /></a>
-
-### Milestone 2:
-
-**minitalk**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/3798016" alt="masmar's 42 minitalk Score" /></a>
-
-**push_swap** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/3759371" alt="masmar's 42 push_swap Score" /></a>
-
-**so_long**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/3857681" alt="masmar's 42 so_long Score" /></a>
-
-**Exam Rank 02**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/3752664" alt="masmar's 42 Exam Rank 02 Score" /></a> 
-
-### Milestone 3:
-
-**minishell**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/3883600" alt="masmar's 42 minishell Score" /></a>
-
-**philosophers**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/3881449" alt="masmar's 42 Philosophers Score" /></a>
-
-**Exam Rank 03**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4080168" alt="masmar's 42 Exam Rank 03 Score" /></a>
-
-### Milestone 4:
-
-**NetPractice**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4100447" alt="masmar's 42 NetPractice Score" /></a>
-
-**cub3D**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4136169" alt="masmar's 42 cub3d Score" /></a>
-
-**CPP Module 00**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4108243" alt="masmar's 42 CPP Module 00 Score" /></a>
-
-**CPP Module 01**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4130564" alt="masmar's 42 CPP Module 01 Score" /></a>
-
-**CPP Module 02**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4136168" alt="masmar's 42 CPP Module 02 Score" /></a>
-
-**CPP Module 03**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4145072" alt="masmar's 42 CPP Module 03 Score" /></a>
-
-**CPP Module 04**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4148775" alt="masmar's 42 CPP Module 04 Score" /></a>
-
-**Exam Rank 04** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4186070" alt="masmar's 42 Exam Rank 04 Score" /></a>
-
-### Milestone 5:
-
-**CPP Module 05**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4204548" alt="masmar's 42 CPP Module 05 Score" /></a>
-
-**CPP Module 06**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4205948" alt="masmar's 42 CPP Module 06 Score" /></a>
-
-**CPP Module 07**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4209905" alt="masmar's 42 CPP Module 07 Score" /></a>
-
-**CPP Module 08**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4213900" alt="masmar's 42 CPP Module 08 Score" /></a>
-
-**CPP Module 09**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4218606" alt="masmar's 42 CPP Module 09 Score" /></a>
-
-**Inception**  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4233127" alt="masmar's 42 Inception Score" /></a>
-
-**ft_irc** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4292142" alt="masmar's 42 ft_irc Score" /></a>
-
-**Exam Rank 05** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4355385" alt="masmar's 42 Exam Rank 05 Score" /></a>
-
-### Milestone 6:
-
-**Exam Rank 06** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4412618" alt="masmar's 42 Exam Rank 06 Score" /></a>
-
-**ft_transcendence** <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8hh7zl24778501mz45f8sgi5/project/4613812" alt="masmar's 42 ft_transcendence Score" /></a>
+- Production-ready agentic systems
+- Multi-agent orchestration
+- Context engineering
+- AI evaluation & observability
+- MCP and tool-based agents
+- Reliable LLM workflows
+- AI-native software development
 
 ---
 
-## 🚀 What I'm Working On
+## 📫 Connect With Me
 
-Always on the lookout for new challenges. 
+**LinkedIn:** [Mateo Asmar](https://www.linkedin.com/in/mateo-asmar-645223228/)
 
-Currently doing a data science internship at CMA CGM - The Hub.
-
----
-
-## 📫 Connect with Me
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)   [**LinkedIn**](https://www.linkedin.com/in/mateo-asmar-645223228/)
-
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)      [**Gmail**](asmarmateo@gmail.com)
+**Email:** [asmarmateo@gmail.com](mailto:asmarmateo@gmail.com)
 
 ---
+
 <p align="center">
-  ✨ "Code. Debug. Refactor. Repeat."
+  <b>Build. Evaluate. Iterate. Ship.</b>
 </p>
-
-<img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" align="center" />
-
-
----
