@@ -35,7 +35,6 @@ My background at **42 Beirut** gave me strong foundations in software engineerin
 - Tool Calling & Structured Outputs
 - AI Workflow Automation
 - LLM APIs
-- AI-assisted development with Claude Code & Codex
 
 ### Backend & Software Engineering
 
