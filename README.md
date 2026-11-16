@@ -23,7 +23,8 @@ I work on practical AI systems: multi-agent workflows, retrieval-augmented gener
 
 ## Professional Work
 
-**Enterprise AI · Private code** — Multi-agent workflow automation for business and document processes. Focus areas include orchestration, backend APIs, integrations, and reliability.
+- **TIARA · Multi-Agent Travel Automation** (private): AI workflows for travel requests, bookings, invoices, expenses, and reimbursements. Focus areas: agent orchestration, backend APIs, integrations, and workflow optimization.
+- **SIRA · AI-Powered Recruitment** (private): LLM workflows supporting candidate screening and interviewing, with structured information for downstream use.
 
 ## Selected Projects
 
@@ -37,9 +38,9 @@ I work on practical AI systems: multi-agent workflows, retrieval-augmented gener
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateo-asmar-645223228/"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn icon" /> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mateo-asmar-645223228/"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" /></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:asmarmateo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Gmail icon" /> Email</a>
+  <a href="mailto:asmarmateo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Gmail" /></a>
 </p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" width="300" /></p>
