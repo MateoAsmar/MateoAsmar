@@ -8,7 +8,13 @@
 
 ## Focus
 
-Python, FastAPI, LLM APIs, RAG, multi-agent orchestration, tool integration, and reliable workflow automation. I also work with C/C++, TypeScript/JavaScript, Docker, and Linux.
+LLM applications, RAG, multi-agent orchestration, tool integration, and workflow automation.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,pytorch,docker,git,linux,bash,js,ts,postgres,vscode" alt="Python, C, C++, FastAPI, PyTorch, Docker, Git, Linux, Bash, JavaScript, TypeScript, PostgreSQL, and VS Code" />
+  </a>
+</p>
 
 ## Selected work
 
