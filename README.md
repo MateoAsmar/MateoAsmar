@@ -42,13 +42,15 @@
 <h2>Connect</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/mateo-asmar-645223228/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:asmarmateo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mateo-asmar-645223228/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn icon" /> LinkedIn
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:asmarmateo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Gmail icon" /> Email
+  </a>
 </p>
 
-<p><a href="https://www.linkedin.com/in/mateo-asmar-645223228/">LinkedIn</a> · <a href="mailto:asmarmateo@gmail.com">asmarmateo@gmail.com</a></p>
-
-<img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" width="340" />
+<img src="https://user-images.githubusercontent/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding animation" width="340" />
 
 </div>
