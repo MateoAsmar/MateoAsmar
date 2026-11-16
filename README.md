@@ -18,7 +18,7 @@ I work on practical AI systems: multi-agent workflows, retrieval-augmented gener
 **Engineering:** Python · FastAPI · C/C++ · TypeScript · Docker · Linux
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,pytorch,docker,git,linux,bash,js,ts,postgres,vscode" alt="Python, C, C++, FastAPI, PyTorch, Docker, Git, Linux, Bash, JavaScript, TypeScript, PostgreSQL, and VS Code" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,pytorch,docker,git,linux,bash,js,ts,postgres,vscode" alt="Python, C, C++, FastAPI, Docker, Git, Linux, Bash, JavaScript, TypeScript, PostgreSQL, and VS Code" /></a>
 </p>
 
 ## Professional Work
